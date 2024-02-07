@@ -5,5 +5,7 @@
             <p class="text-5xl text-red-400">DZIEKUJEEE!</p>
             <p class="text-5xl text-red-400">Kocham Cie!</p>
         </div>
+
+        <p class="absolute right-2 bottom-2 text-white">Created by: <a href="https://makoto.com.pl" target="_blank">MakotoPD</a></p>
     </div>
 </template>

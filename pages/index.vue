@@ -21,6 +21,8 @@
                 </button>
             </div>
         </div>
+
+        <p class="absolute right-2 bottom-2 text-white/50">Created by: <a href="https://makoto.com.pl" target="_blank">MakotoPD</a></p>
     </div>
 </template>
 
