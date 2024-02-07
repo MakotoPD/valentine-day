@@ -2,7 +2,7 @@
     <div class="h-screen w-screen flex items-center justify-center">
         <div class="flex flex-col justify-center items-center gap-6">
             <img src="/czyzostaniesz.gif" class="h-64 object-contain" alt="gif">
-            <p class="text-3xl text-red-400">Czy zostaniesz moją walentynką?</p>
+            <p class="text-3xl text-red-400 text-center">Czy zostaniesz moją walentynką?</p>
             <div class="flex items-center justify-center gap-3">
                 <button 
                     :style="'font-size:'+size+'rem'"
